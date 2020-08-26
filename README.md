@@ -3,13 +3,13 @@ Operating-System-Lab
 
 
 Assignment-1
-fibonacc-_fork.c
-parent_child_id.c
+fibonacc-_fork.c(Q1)
+parent_child_id.c(Q2)
 
 
 Assignment-2
-Sorting using fork().c
-Binarytree using fork.c
+Sorting using fork().c(Q3)
+Binarytree using fork.c(Q4)
 
 
 Assignment-3
