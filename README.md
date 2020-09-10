@@ -26,5 +26,8 @@ Assignment-5
 
 Assignment-6
 Q(6.a)implementing binary and counting semaphore
+
 Q(6.b)implementing peterson algorithm in process synchroniztion using multiprocessor fork() system call.
+
 Q(6.c)Demonstrate the race condition using fork() system call.
+
