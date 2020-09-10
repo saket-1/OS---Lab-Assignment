@@ -36,7 +36,9 @@
 
 ## Assignment-6
 
-Q(6.a)implementing binary and counting semaphore
+Q(6.a.1)implementing binary semaphore
+
+Q(6.a.2)implementing counting semaphore
 
 Q(6.b)implementing peterson algorithm in process synchroniztion using multiprocessor fork() system call.
 
