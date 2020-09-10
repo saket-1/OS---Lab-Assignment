@@ -4,11 +4,8 @@
 
 ## Assignment-1
 
-###### (Q1.a)   
-Fibonacc-Fork.c
-
-###### (Q1.b) 
-Parent_child_id.c
+(Q1.a)Fibonacc-Fork.c
+(Q1.b)Parent_child_id.c
 
 
 ## Assignment-2
