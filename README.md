@@ -23,3 +23,8 @@ Assingment-4
 Assignment-5
 (Q5.a)MultithreadProgram fibonnaci thread
 (Q5.b)three thread and print(static global local) variables
+
+Assignment-6
+Q(6.a)implementing binary and counting semaphore
+Q(6.b)implementing peterson algorithm in process synchroniztion using multiprocessor fork() system call.
+Q(6.c)Demonstrate the race condition using fork() system call.
