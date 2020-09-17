@@ -1,6 +1,10 @@
 # Operating-System-Lab
 
+###### Subject Code : CSE 316
 
+###### Subject Coordinator : Prof.Vijay Bhaskar
+
+###### Semester : V
 
 ## Assignment-1
 
