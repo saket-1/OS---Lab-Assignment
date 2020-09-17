@@ -44,12 +44,14 @@ Q(6.a.1)implementing binary semaphore
 
 Q(6.a.2)implementing counting semaphore
 
+Q(6.b)implementing peterson algorithm in process synchroniztion using multiprocessor fork() system call.
+
+Q(6.c)Demonstrate the race condition using fork() system call.
+
+
 ## Assignment-7
 
 Q(7.a) write the code for producer and consumer classical process synchronization code.
 
 Q(7.b) Write the code for reader and writer classical process synchronization code.
-Q(6.b)implementing peterson algorithm in process synchroniztion using multiprocessor fork() system call.
-
-Q(6.c)Demonstrate the race condition using fork() system call.
 
