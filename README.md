@@ -55,3 +55,6 @@ Q(7.a) write the code for producer and consumer classical process synchronizatio
 
 Q(7.b) Write the code for reader and writer classical process synchronization code.
 
+## Assignment-8
+Q.(8) Dining.c
+
