@@ -58,3 +58,7 @@ Q(7.b) Write the code for reader and writer classical process synchronization co
 ## Assignment-8
 Q.(8) Dining.c
 
+## Assignment-9
+Q.(9) Implement Bankers Algorithm for deadlock avoidance in c. Pass all the test cases.
+
+
