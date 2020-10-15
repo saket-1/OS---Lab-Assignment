@@ -61,4 +61,7 @@ Q.(8) Dining.c
 ## Assignment-9
 Q.(9) Implement Bankers Algorithm for deadlock avoidance in c. Pass all the test cases.
 
+## Assignment-10
+Q.(10) Write a program for FCFS,SJF,Priority and Round robin CPU Scheduling in c.
+
 
