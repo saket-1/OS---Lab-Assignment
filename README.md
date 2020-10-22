@@ -62,14 +62,20 @@ Q.(8) Dining.c
 Q.(9) Implement Bankers Algorithm for deadlock avoidance in c. Pass all the test cases.
 
 ## Assignment-10
-Q.(10) Write a program for FCFS,SJF,Priority and Round robin CPU Scheduling in c.
+Q.(10.a) Write a program for FCFS CPU Scheduling in c.
+
+Q.(10.b) Write a program for SJF CPU Scheduling in c.
+
+Q.(10.c) Write a program for Priority CPU Scheduling in c.
+
+Q.(10.a) Write a program for Round robin CPU Scheduling in c.
 
 ## Assignment-11
-Q.(11.a) Write a program to implement the FCFS scheduling.
+Q.(11.a) Write a program to implement the FCFS disk scheduling.
 
-Q.(11.b) Write a program to implement the SSTF SCAN Scheduling.
+Q.(11.b) Write a program to implement the SSTF SCAN disk Scheduling.
 
-Q.(11.a) Write a program to implement the C-SCAN Scheduling.
+Q.(11.a) Write a program to implement the C-SCAN disk Scheduling.
 
 
 
