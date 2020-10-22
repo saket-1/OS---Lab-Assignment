@@ -64,4 +64,10 @@ Q.(9) Implement Bankers Algorithm for deadlock avoidance in c. Pass all the test
 ## Assignment-10
 Q.(10) Write a program for FCFS,SJF,Priority and Round robin CPU Scheduling in c.
 
+## Assignment-11
+Q.(11.a) Write a program to implement the FCFS scheduling.
+Q.(11.b) Write a program to implement the SSTF SCAN Scheduling.
+Q.(11.a) Write a program to implement the C-SCAN Scheduling.
+
+
 
