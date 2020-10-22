@@ -68,7 +68,7 @@ Q.(10.b) Write a program for SJF CPU Scheduling in c.
 
 Q.(10.c) Write a program for Priority CPU Scheduling in c.
 
-Q.(10.a) Write a program for Round robin CPU Scheduling in c.
+Q.(10.d) Write a program for Round robin CPU Scheduling in c.
 
 ## Assignment-11
 Q.(11.a) Write a program to implement the FCFS disk scheduling.
